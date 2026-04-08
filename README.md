@@ -50,7 +50,7 @@ AgriAI is a next-generation agricultural intelligence platform designed to empow
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/agri-ai.git
+   git clone (https://github.com/Ri-yaB/Agri-AI.git)
    cd agri-ai
    ```
 
