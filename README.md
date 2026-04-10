@@ -73,11 +73,7 @@ AgriAI is a next-generation agricultural intelligence platform designed to empow
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
----
 
-## 📸 Screenshots
-
-*(Add screenshots of your stunning UI here!)*
 
 ---
 
